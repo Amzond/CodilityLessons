@@ -14,5 +14,5 @@ def solution2(A):
     i = i - sum(A) 
     return i 
     
-A = [2,3,1,5]
+A = [1,3,6,4,1,2]
 print(solution2(A))
